@@ -22,7 +22,9 @@
 ## Productivity
 
 * [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12)
-    * credit to Chris Shei for suggestion
+    * Credit to Chris Shei for suggesting
+* [Spectacle](https://www.spectacleapp.com/) - move and resize windows with ease
+    * Credit to Steven Nunez for suggesting
 
 ## Regex
 
@@ -31,12 +33,16 @@
 * [Tool to Learn, Build, & Test Regural Expressions](http://www.regexr.com/)
 * [Tabular Summary of the Regex Syntax in Perl & Annotated Examples](http://www.cs.tut.fi/~jkorpela/perl/regexp.html)
 
+## Text Editors
+
+* [Sublime Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+
 ## Other
 
+* [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
+    * Credit to Fidel Severino for suggesting
 * [Dan's Tools](http://www.danstools.com/) - various neat tools
-* [Sublime Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [Site Performance Tool](http://www.webpagetest.org/)
 * [Make HTTP Requests](https://www.hurl.it/)
 * [Lorem ipsum generator](http://www.lipsum.com/feed/html)
 * [f.lux](https://justgetflux.com/) - protect your eyes
-* [Spectacle](https://www.spectacleapp.com/) - move and resize windows with ease
