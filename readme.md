@@ -39,6 +39,13 @@
 
 ## Other
 
+#### Hosted Libraries
+
+* [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
+* [CDNJS Hosted Libraries](https://cdnjs.com/libraries)
+
+----
+
 * [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
     * Credit to Fidel Severino for suggesting
 * [Dan's Tools](http://www.danstools.com/) - various neat tools
