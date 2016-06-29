@@ -39,6 +39,7 @@
 * [Git Reference](http://gitref.org/)
 * [Major GIT commands with examples](https://www.siteground.com/tutorials/git/commands.htm)
 * [Git Branching Simulation [Interactive]](http://learngitbranching.js.org/)
+* [Mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Productivity
 
