@@ -5,6 +5,18 @@
 
 ----
 
+## Index
+
+* [HTML](#html)
+* [Misc CSS & Frontend related tools](#misc-css--frontend-related-tools)
+* [Git & Github](#git-and-github)
+* [Productivity](#productivity)
+* [Regex](#regex)
+* [Text Editors](#text-editors)
+* [Other](#other)
+
+----
+
 ## HTML
 
 * [Markup Validator](https://validator.w3.org/)
@@ -18,6 +30,15 @@
 * [CSS3 Generator](http://css3generator.com/)
 * [PX to EM Converter](http://pxtoem.com/)
 * [Color Picker](http://www.colorpicker.com/)
+
+## Git and Github
+
+* [Git Guide by Atlassian [read this if nothing else]](https://www.atlassian.com/git/tutorials/what-is-version-control/)
+* [Git the Simple Guide](https://rogerdudler.github.io/git-guide/)
+* [Git Book](https://git-scm.com/book/en/v2)
+* [Git Reference](http://gitref.org/)
+* [Major GIT commands with examples](https://www.siteground.com/tutorials/git/commands.htm)
+* [Git Branching Simulation [Interactive]](http://learngitbranching.js.org/)
 
 ## Productivity
 
