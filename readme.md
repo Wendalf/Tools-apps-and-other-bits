@@ -48,6 +48,11 @@
 * [Spectacle](https://www.spectacleapp.com/) - move and resize windows with ease
     * Credit to Steven Nunez for suggesting
 
+#### Noise Solutions
+
+* [Ambient Sounds Of Public Places](https://coffitivity.com/)
+* [Online Noise Machines](https://mynoise.net/)
+
 ## Regex
 
 * [Learn Regular Expressions With Simple, Interactive Exercises.](http://regexone.com/)
