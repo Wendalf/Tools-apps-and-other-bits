@@ -11,9 +11,14 @@
 * [Misc CSS & Frontend Related Tools](#misc-css--frontend-related-tools)
 * [Git & Github](#git-and-github)
 * [Productivity](#productivity)
+    * [Noise Solutions](#noise-solutions)
+    * [Text Based Sharing](#text-based-sharing)
 * [Regex](#regex)
 * [Text Editors](#text-editors)
 * [Other](#other)
+    * [Hosted Libraries](#hosted-libraries)
+    * [Useful Repos](#useful-repos)
+    * [Misc](#misc)
 
 ----
 
@@ -52,6 +57,13 @@
 
 * [Ambient Sounds Of Public Places](https://coffitivity.com/)
 * [Online Noise Machines](https://mynoise.net/)
+* [brain.fm](https://www.brain.fm/)
+    * Credit to Dmitriy Khait for suggesting
+
+#### Text Based Sharing
+
+* [Pastebin](http://pastebin.com/)
+* [GitHub Gist](https://gist.github.com/)
 
 ## Regex
 
@@ -75,7 +87,13 @@
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
 * [CDNJS Hosted Libraries](https://cdnjs.com/libraries)
 
-----
+#### Useful Repos
+
+* [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup)
+    * Note: some sections may be outdated
+* [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+
+#### Misc
 
 * [Multiple API documentations](http://devdocs.io/)
     * Credit to Fidel Severino for suggesting
