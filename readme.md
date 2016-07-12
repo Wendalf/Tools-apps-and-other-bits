@@ -9,6 +9,8 @@
 
 * [HTML](#html)
 * [Misc CSS & Frontend Related Tools](#misc-css--frontend-related-tools)
+* [Ruby](#ruby)
+    * [Gem Related Bits](#gem-related-bits)
 * [Git & Github](#git-and-github)
 * [Productivity](#productivity)
     * [Noise Solutions](#noise-solutions)
@@ -35,6 +37,12 @@
 * [CSS3 Generator](http://css3generator.com/)
 * [PX To EM Converter](http://pxtoem.com/)
 * [Color Picker](http://www.colorpicker.com/)
+
+## Ruby
+
+#### Gem Related Bits
+* [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
+* [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/)
 
 ## Git and Github
 
