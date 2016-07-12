@@ -41,8 +41,8 @@
 ## Ruby
 
 #### Gem Related Bits
-* [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
-* [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/)
+* [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/) (credit for link: Blaze Burgess)
+* [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/) (credit for link: Blaze Burgess)
 
 ## Git and Github
 
@@ -56,17 +56,14 @@
 
 ## Productivity
 
-* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12)
-    * Credit to Chris Shei for suggesting
-* [Spectacle](https://www.spectacleapp.com/) - move and resize windows with ease
-    * Credit to Steven Nunez for suggesting
+* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) (credit: Chris Shei)
+* [Spectacle](https://www.spectacleapp.com/) - move and resize windows with ease (credit: Steven Nunez)
 
 #### Noise Solutions
 
 * [Ambient Sounds Of Public Places](https://coffitivity.com/)
 * [Online Noise Machines](https://mynoise.net/)
-* [brain.fm](https://www.brain.fm/)
-    * Credit to Dmitriy Khait for suggesting
+* [brain.fm](https://www.brain.fm/) (credit for link: Dmitriy Khait)
 
 #### Text Based Sharing
 
@@ -103,8 +100,7 @@
 
 #### Misc
 
-* [Multiple API documentations](http://devdocs.io/)
-    * Credit to Fidel Severino for suggesting
+* [Multiple API documentations](http://devdocs.io/) (credit for link: Fidel Severino)
 * [Various Cheat Sheets](https://www.cheatography.com/)
 * [Dan's Tools](http://www.danstools.com/) - various neat tools
 * [Site Performance Tool](http://www.webpagetest.org/)
