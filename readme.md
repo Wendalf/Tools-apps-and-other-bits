@@ -1,7 +1,7 @@
 # Various tools, apps & other useful bits
 
 #### This repo is a work in progress.
-##### _Cheers to all wdf-000's_
+##### _Cheers to all Foreign Methods!_
 
 ----
 
