@@ -93,10 +93,8 @@
 
 * [Minimax algorithm](http://neverstopbuilding.com/minimax) (credit for link: Raycent)
     * A guide on how to implement minimax in ruby. Also check the [web game using the above algorithm](http://perfecttictactoe.herokuapp.com/)
-* [Case study in Java](http://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html)
-    (Check section 1.4 for rule based strategy)
-* [Guide: How to never loose](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe)
-    (This is a comprehensive guide)
+* [Case study in Java](http://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html) - check section 1.4 for rule based strategy
+* [Guide: How to never loose](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe) - this is a comprehensive guide
 
 ## Other
 
