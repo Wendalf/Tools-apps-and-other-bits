@@ -17,6 +17,8 @@
     * [Text Based Sharing](#text-based-sharing)
 * [Regex](#regex)
 * [Text Editors](#text-editors)
+* [Learn Labs](#learn-labs-related)
+    * [Tic Tac Toe AI](#tic-tac-toe)
 * [Other](#other)
     * [Hosted Libraries](#hosted-libraries)
     * [Useful Repos](#useful-repos)
@@ -56,8 +58,9 @@
 
 ## Productivity
 
-* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) (credit: Chris Shei)
-* [Spectacle](https://www.spectacleapp.com/) - move and resize windows with ease (credit: Steven Nunez)
+* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) (credit for link: Chris Shei)
+* [Spectacle](https://www.spectacleapp.com/) (credit for link: Steven Nunez)
+    * Move and resize windows with ease
 
 #### Noise Solutions
 
@@ -84,6 +87,16 @@
 * [Sublime Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [Multi-Select Guide](http://sublimetexttips.com/using-sublime-texts-amazing-multiple-selections/)
 
+## Learn Labs Related
+
+#### Tic Tac Toe
+
+* [Minimax algorithm](http://neverstopbuilding.com/minimax) (credit for link: Raycent)
+    * A guide on how to implement minimax in ruby. Also check the [web game using the above algorithm](http://perfecttictactoe.herokuapp.com/)
+* [Case study in Java](http://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html)
+    (Check section 1.4 for rule based strategy)
+* [Guide: How to never loose](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe)
+    (This is a comprehensive guide)
 
 ## Other
 
