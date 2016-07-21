@@ -15,6 +15,7 @@
 * [Productivity](#productivity)
     * [Noise Solutions](#noise-solutions)
     * [Text Based Sharing](#text-based-sharing)
+    * [Distraction Solutions](#distraction-solutions)
 * [Regex](#regex)
 * [Text Editors](#text-editors)
 * [Learn Labs](#learn-labs-related)
@@ -43,8 +44,8 @@
 ## Ruby
 
 #### Gem Related Bits
-* [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/) (credit for link: Blaze Burgess)
-* [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/) (credit for link: Blaze Burgess)
+* [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/) <sup>credit for link: Blaze Burgess</sup>
+* [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/) <sup>credit for link: Blaze Burgess</sup>
 
 ## Git and Github
 
@@ -58,20 +59,25 @@
 
 ## Productivity
 
-* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) (credit for link: Chris Shei)
-* [Spectacle](https://www.spectacleapp.com/) (credit for link: Steven Nunez)
+* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) <sup>credit for link: Chris Shei</sup>
+* [Spectacle](https://www.spectacleapp.com/) <sup>credit for link: Steven Nunez</sup>
     * Move and resize windows with ease
 
 #### Noise Solutions
 
 * [Ambient Sounds Of Public Places](https://coffitivity.com/)
 * [Online Noise Machines](https://mynoise.net/)
-* [brain.fm](https://www.brain.fm/) (credit for link: Dmitriy Khait)
+* [brain.fm](https://www.brain.fm/) <sup>credit for link: Dmitriy Khait</sup>
 
 #### Text Based Sharing
 
 * [Pastebin](http://pastebin.com/)
 * [GitHub Gist](https://gist.github.com/)
+
+#### Distraction Solutions
+
+* [Stay Focusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) - chrome ext <sup>credit for link: Mohammed Omar</sup>
+* [Self Control](https://chrome.google.com/webstore/detail/self-control/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en) - chrome ext <sup>credit for link: Mohammed Omar</sup>
 
 ## Regex
 
@@ -91,7 +97,7 @@
 
 #### Tic Tac Toe
 
-* [Minimax algorithm](http://neverstopbuilding.com/minimax) (credit for link: Raycent)
+* [Minimax algorithm](http://neverstopbuilding.com/minimax) <sup>credit for link: Raycent</sup> 
     * A guide on how to implement minimax in ruby. Also check the [web game using the above algorithm](http://perfecttictactoe.herokuapp.com/)
 * [Case study in Java](http://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html) - check section 1.4 for rule based strategy
 * [Guide: How to never loose](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe) - this is a comprehensive guide
@@ -111,7 +117,7 @@
 
 #### Misc
 
-* [Multiple API documentations](http://devdocs.io/) (credit for link: Fidel Severino)
+* [Multiple API documentations](http://devdocs.io/) <sup>credit for link: Fidel Severino</sup>
 * [Various Cheat Sheets](https://www.cheatography.com/)
 * [Dan's Tools](http://www.danstools.com/) - various neat tools
 * [Site Performance Tool](http://www.webpagetest.org/)
