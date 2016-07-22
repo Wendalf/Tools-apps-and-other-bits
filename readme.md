@@ -31,11 +31,13 @@
 ----
 
 ## HTML
+<sup>[back to index](#index)</sup>
 
 * [Markup Validator](https://validator.w3.org/)
 * [HTML Cheat Sheet](http://www.cril.univ-artois.fr/~lecoutre/teaching/web/sheets/HTML.pdf)
 
 ## Misc CSS & Frontend related tools
+<sup>[back to index](#index)</sup>
 
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [Google Fonts](https://fonts.google.com/)
@@ -45,12 +47,14 @@
 * [Color Picker](http://www.colorpicker.com/)
 
 ## Ruby
+<sup>[back to index](#index)</sup>
 
 #### Gem Related Bits
 * [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/) <sup>credit for link: Blaze Burgess</sup>
 * [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/) <sup>credit for link: Blaze Burgess</sup>
 
 ## Git and Github
+<sup>[back to index](#index)</sup>
 
 * [Git Guide By Atlassian [Read This If Nothing Else]](https://www.atlassian.com/git/tutorials/what-is-version-control/)
 * [Git The Simple Guide](https://rogerdudler.github.io/git-guide/)
@@ -61,6 +65,7 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Productivity
+<sup>[back to index](#index)</sup>
 
 * [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) <sup>credit for link: Chris Shei</sup>
 * [Spectacle](https://www.spectacleapp.com/) <sup>credit for link: Steven Nunez</sup>
@@ -83,6 +88,7 @@
 * [Self Control](https://chrome.google.com/webstore/detail/self-control/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en) - chrome ext <sup>credit for link: Mohammed Omar</sup>
 
 ## Regex
+<sup>[back to index](#index)</sup>
 
 * [Learn Regular Expressions With Simple, Interactive Exercises.](http://regexone.com/)
 * [A Ruby Regular Expression Editor](http://rubular.com/)
@@ -90,12 +96,14 @@
 * [Tabular Summary of the Regex Syntax in Perl & Annotated Examples](http://www.cs.tut.fi/~jkorpela/perl/regexp.html)
 
 ## SQL
+<sup>[back to index](#index)</sup>
 
 #### SQL Tutorials
 
 * [SQL Clauses](http://www.sqlclauses.com/) - various sql tutorials
 * [SQL Interactive Tutorials](http://sqlzoo.net/wiki/SQL_Tutorial)
 * [Visual Explanation Of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+* [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
 #### SQLite
 
@@ -104,6 +112,7 @@
 * [SQLite Tutorial](http://zetcode.com/db/sqlite/)
 
 ## Text Editors
+<sup>[back to index](#index)</sup>
 
 #### Sublime
 
@@ -111,6 +120,7 @@
 * [Multi-Select Guide](http://sublimetexttips.com/using-sublime-texts-amazing-multiple-selections/)
 
 ## Learn Labs Related
+<sup>[back to index](#index)</sup>
 
 #### Tic Tac Toe
 
@@ -120,6 +130,7 @@
 * [Guide: How to never loose](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe) - this is a comprehensive guide
 
 ## Other
+<sup>[back to index](#index)</sup>
 
 #### Hosted Libraries
 
