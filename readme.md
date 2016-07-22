@@ -101,7 +101,9 @@
 #### SQL Tutorials
 
 * [SQL Clauses](http://www.sqlclauses.com/) - various sql tutorials
-* [SQL Interactive Tutorials](http://sqlzoo.net/wiki/SQL_Tutorial)
+* Interactive Tutorials
+    * [SQLZoo](http://sqlzoo.net/wiki/SQL_Tutorial)
+    * [SQLBolt](http://sqlbolt.com/)
 * [Visual Explanation Of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 * [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
