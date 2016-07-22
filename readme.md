@@ -17,6 +17,9 @@
     * [Text Based Sharing](#text-based-sharing)
     * [Distraction Solutions](#distraction-solutions)
 * [Regex](#regex)
+* [SQL](#sql)
+    * [SQL Tutorials](#sql-tutorials)
+    * [SQLite](#sqlite)
 * [Text Editors](#text-editors)
 * [Learn Labs](#learn-labs-related)
     * [Tic Tac Toe AI](#tic-tac-toe)
@@ -85,6 +88,20 @@
 * [A Ruby Regular Expression Editor](http://rubular.com/)
 * [Tool To Learn, Build, & Test Regural Expressions](http://www.regexr.com/)
 * [Tabular Summary of the Regex Syntax in Perl & Annotated Examples](http://www.cs.tut.fi/~jkorpela/perl/regexp.html)
+
+## SQL
+
+#### SQL Tutorials
+
+* [SQL Clauses](http://www.sqlclauses.com/) - various sql tutorials
+* [SQL Interactive Tutorials](http://sqlzoo.net/wiki/SQL_Tutorial)
+* [Visual Explanation Of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
+#### SQLite
+
+* [SQLite Official Documentation](https://www.sqlite.org/index.html)
+* [SQLite Datatypes](https://www.sqlite.org/datatype3.html)
+* [SQLite Tutorial](http://zetcode.com/db/sqlite/)
 
 ## Text Editors
 
