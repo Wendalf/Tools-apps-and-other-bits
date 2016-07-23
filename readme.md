@@ -111,8 +111,10 @@
 * Interactive Tutorials
     * [SQLZoo](http://sqlzoo.net/wiki/SQL_Tutorial)
     * [SQLBolt](http://sqlbolt.com/)
-* [Visual Explanation Of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
-* [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql) <sup>credit for link: gAlex Griffith</sup>
+* [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql) <sup>credit for link: Alex Griffith</sup>
+* Visualizing SQL Joins
+    * [About SQL Joins: The 3 Ring Binder Model](http://blog.seldomatt.com/blog/2012/10/17/about-sql-joins-the-3-ring-binder-model/)
+    * [A Visual Explanation Of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
 #### SQLite
 
