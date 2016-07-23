@@ -20,6 +20,7 @@
 * [SQL](#sql)
     * [SQL Tutorials](#sql-tutorials)
     * [SQLite](#sqlite)
+    * [Database Browsers](#database-browsers)
 * [Text Editors](#text-editors)
 * [Learn Labs](#learn-labs-related)
     * [Tic Tac Toe AI](#tic-tac-toe)
@@ -87,6 +88,12 @@
 * [Stay Focusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) - chrome ext <sup>credit for link: Mohammed Omar</sup>
 * [Self Control](https://chrome.google.com/webstore/detail/self-control/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en) - chrome ext <sup>credit for link: Mohammed Omar</sup>
 
+#### Misc
+
+* [darw.io](https://www.draw.io/?splash=0) - diagramming application
+    * [Chrome App](https://chrome.google.com/webstore/detail/drawio-diagrams/onlkggianjhjenigcpigpjehhpplldkc)
+    * [Related Support Page](https://support.draw.io/spaces/viewspace.action?key=DO)
+
 ## Regex
 <sup>[back to index](#index)</sup>
 
@@ -112,6 +119,10 @@
 * [SQLite Official Documentation](https://www.sqlite.org/index.html)
 * [SQLite Datatypes](https://www.sqlite.org/datatype3.html)
 * [SQLite Tutorial](http://zetcode.com/db/sqlite/)
+
+#### Database Browsers
+
+* [DB Browser For SQLite](http://sqlitebrowser.org/)
 
 ## Text Editors
 <sup>[back to index](#index)</sup>
