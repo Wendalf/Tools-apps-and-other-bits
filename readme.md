@@ -68,10 +68,6 @@
 ## Productivity
 <sup>[back to index](#index)</sup>
 
-* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) <sup>credit for link: Chris Shei</sup>
-* [Spectacle](https://www.spectacleapp.com/) <sup>credit for link: Steven Nunez</sup>
-    * Move and resize windows with ease
-
 #### Noise Solutions
 
 * [Ambient Sounds Of Public Places](https://coffitivity.com/)
@@ -93,6 +89,9 @@
 * [darw.io](https://www.draw.io/?splash=0) - diagramming application
     * [Chrome App](https://chrome.google.com/webstore/detail/drawio-diagrams/onlkggianjhjenigcpigpjehhpplldkc)
     * [Related Support Page](https://support.draw.io/spaces/viewspace.action?key=DO)
+* [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) <sup>credit for link: Chris Shei</sup>
+* [Spectacle](https://www.spectacleapp.com/) <sup>credit for link: Steven Nunez</sup>
+    * Move and resize windows with ease
 
 ## Regex
 <sup>[back to index](#index)</sup>
@@ -112,7 +111,7 @@
     * [SQLZoo](http://sqlzoo.net/wiki/SQL_Tutorial)
     * [SQLBolt](http://sqlbolt.com/)
 * [Visual Explanation Of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
-* [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+* [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql) <sup>credit for link: Alex Griffith</sup>
 
 #### SQLite
 
