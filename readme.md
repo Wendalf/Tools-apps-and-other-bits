@@ -16,6 +16,7 @@
     * [Noise Solutions](#noise-solutions)
     * [Text Based Sharing](#text-based-sharing)
     * [Distraction Solutions](#distraction-solutions)
+    * [Misc](#misc)
 * [Regex](#regex)
 * [SQL](#sql)
     * [SQL Tutorials](#sql-tutorials)
@@ -111,7 +112,7 @@
     * [SQLZoo](http://sqlzoo.net/wiki/SQL_Tutorial)
     * [SQLBolt](http://sqlbolt.com/)
 * [Visual Explanation Of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
-* [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql) <sup>credit for link: Alex Griffith</sup>
+* [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql) <sup>credit for link: gAlex Griffith</sup>
 
 #### SQLite
 
