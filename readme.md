@@ -58,7 +58,7 @@
 ## Git and Github
 <sup>[back to index](#index)</sup>
 
-* [Git Guide By Atlassian [Read This If Nothing Else]](https://www.atlassian.com/git/tutorials/what-is-version-control/)
+* [Git Guide By Bitbucket [Read This If Nothing Else]](https://www.atlassian.com/git/tutorials/what-is-version-control/)
 * [Git The Simple Guide](https://rogerdudler.github.io/git-guide/)
 * [Git Book](https://git-scm.com/book/en/v2)
 * [Git Reference](http://gitref.org/)
