@@ -7,10 +7,15 @@
 
 ## Index
 
+* [Web Fundamentals](#web-fundamentals)
+    * [HTTP](#http)
 * [HTML](#html)
 * [Misc CSS & Frontend Related Tools](#misc-css--frontend-related-tools)
 * [Ruby](#ruby)
+    * [Tutorials](#tutorial-sites)
     * [Gem Related Bits](#gem-related-bits)
+* [Rails](#rails)
+    * [Rack](#rack)
 * [Git & Github](#git-and-github)
 * [Productivity](#productivity)
     * [Noise Solutions](#noise-solutions)
@@ -32,6 +37,13 @@
 
 ----
 
+## Web Fundamentals
+<sup>[back to index](#index)</sup>
+
+#### HTTP
+
+* [HTTP Status Codes](http://www.tutorialspoint.com/http/http_status_codes.htm)
+
 ## HTML
 <sup>[back to index](#index)</sup>
 
@@ -51,9 +63,25 @@
 ## Ruby
 <sup>[back to index](#index)</sup>
 
+#### Tutorial Sites
+
+* [Ruby Learning Dot Com](http://rubylearning.com/)
+
 #### Gem Related Bits
+
 * [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/) <sup>credit for link: Blaze Burgess</sup>
 * [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/) <sup>credit for link: Blaze Burgess</sup>
+
+## Rails
+<sup>[back to index](#index)</sup>
+
+* [Rails Guides](http://guides.rubyonrails.org/index.html)
+* [Rails Api](http://api.rubyonrails.org/)
+
+#### Rack
+
+* [Rack Official](https://rack.github.io/)
+* [Ruby Doc Rack](http://www.rubydoc.info/github/rack/rack/)
 
 ## Git and Github
 <sup>[back to index](#index)</sup>
