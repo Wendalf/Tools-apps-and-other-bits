@@ -14,8 +14,10 @@
 * [Ruby](#ruby)
     * [Tutorials](#tutorial-sites)
     * [Gem Related Bits](#gem-related-bits)
-* [Rails](#rails)
     * [Rack](#rack)
+* [Frameworks](#frameworks)
+    * [Sinatra](#sinatra)
+    * [Rails](#rails)
 * [Git & Github](#git-and-github)
 * [Productivity](#productivity)
     * [Noise Solutions](#noise-solutions)
@@ -33,6 +35,7 @@
 * [Other](#other)
     * [Hosted Libraries](#hosted-libraries)
     * [Useful Repos](#useful-repos)
+    * [Code Challenges](#code-challenges)
     * [Misc](#misc)
 
 ----
@@ -72,16 +75,25 @@
 * [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/) <sup>credit for link: Blaze Burgess</sup>
 * [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/) <sup>credit for link: Blaze Burgess</sup>
 
-## Rails
-<sup>[back to index](#index)</sup>
-
-* [Rails Guides](http://guides.rubyonrails.org/index.html)
-* [Rails Api](http://api.rubyonrails.org/)
-
 #### Rack
 
 * [Rack Official](https://rack.github.io/)
 * [Ruby Doc Rack](http://www.rubydoc.info/github/rack/rack/)
+
+## Frameworks
+<sup>[back to index](#index)</sup>
+
+#### Sinatra
+
+* [Sinatra Github](https://github.com/sinatra/sinatra)
+* [Sinatra Official Page](http://www.sinatrarb.com/intro.html)
+* [Sinatra Ruby Doc](http://www.rubydoc.info/gems/sinatra)
+* [An Introduction to ERB Templating](http://www.stuartellis.eu/articles/erb/)
+
+#### Rails
+
+* [Rails Guides](http://guides.rubyonrails.org/index.html)
+* [Rails Api](http://api.rubyonrails.org/)
 
 ## Git and Github
 <sup>[back to index](#index)</sup>
@@ -185,6 +197,11 @@
 * [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup)
     * Note: some sections may be outdated
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+
+#### Code Challenges
+
+* [Foreign Methods Code Challenges](https://github.com/ozPop/Foreign-methods-code-challenges/blob/master/readme.md)
+* [CodeWars](https://www.codewars.com/) <sup>credit for link: Sol Jin</sup>
 
 #### Misc
 
