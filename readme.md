@@ -69,8 +69,15 @@
 #### Tutorial Sites
 
 * [Ruby Learning Dot Com](http://rubylearning.com/)
+* [Intro to ERB](http://www.stuartellis.eu/articles/erb/)
 
 #### Gem Related Bits
+
+Gems
+
+* [Capybara: Integration Tests In Rails Or Sinatra](https://github.com/jnicklas/capybara)
+
+Other Info
 
 * [Step By Step Guide To Building Your First Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/) <sup>credit for link: Blaze Burgess</sup>
 * [Learn How Create And Publish Your Own Gem](http://guides.rubygems.org/make-your-own-gem/) <sup>credit for link: Blaze Burgess</sup>
@@ -205,8 +212,14 @@
 
 #### Misc
 
+##### Docs and stuff
+
 * [Multiple API documentations](http://devdocs.io/) <sup>credit for link: Fidel Severino</sup>
 * [Various Cheat Sheets](https://www.cheatography.com/)
+* [List Of URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php)
+
+##### Tools
+
 * [Dan's Tools](http://www.danstools.com/) - various neat tools
 * [Site Performance Tool](http://www.webpagetest.org/)
 * [Make HTTP Requests](https://www.hurl.it/)
