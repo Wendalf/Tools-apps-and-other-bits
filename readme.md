@@ -9,8 +9,9 @@
 
 * [Web Fundamentals](#web-fundamentals)
     * [HTTP](#http)
+    * [Cookies & Sessions](#cookies-and-sessions)
 * [HTML](#html)
-* [Misc CSS & Frontend Related Tools](#misc-css--frontend-related-tools)
+* [CSS & Frontend Related Tools](#misc-css--frontend-related-tools)
 * [Ruby](#ruby)
     * [Tutorials](#tutorial-sites)
     * [Gem Related Bits](#gem-related-bits)
@@ -47,13 +48,18 @@
 
 * [HTTP Status Codes](http://www.tutorialspoint.com/http/http_status_codes.htm)
 
+#### Cookies And Sessions
+
+* [All About Cookies dot Org](http://www.allaboutcookies.org/)
+* [Wikipedia Page](https://en.wikipedia.org/wiki/HTTP_cookie#Session_cookie)
+
 ## HTML
 <sup>[back to index](#index)</sup>
 
 * [Markup Validator](https://validator.w3.org/)
 * [HTML Cheat Sheet](http://www.cril.univ-artois.fr/~lecoutre/teaching/web/sheets/HTML.pdf)
 
-## Misc CSS & Frontend related tools
+## CSS & Frontend Related Tools
 <sup>[back to index](#index)</sup>
 
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
