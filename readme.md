@@ -8,7 +8,7 @@
 ## Index
 
 * [Web Fundamentals](#web-fundamentals)
-    * [HTTP](#http)
+    * [Protocols](#protocols)
     * [Cookies & Sessions](#cookies-and-sessions)
 * [HTML](#html)
 * [CSS & Frontend Related Tools](#misc-css--frontend-related-tools)
@@ -44,8 +44,9 @@
 ## Web Fundamentals
 <sup>[back to index](#index)</sup>
 
-#### HTTP
+#### Protocols
 
+* [TCP/IP Protocol Fundamentals](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals/)
 * [HTTP Status Codes](http://www.tutorialspoint.com/http/http_status_codes.htm)
 
 #### Cookies And Sessions
@@ -107,6 +108,10 @@ Other Info
 
 * [Rails Guides](http://guides.rubyonrails.org/index.html)
 * [Rails Api](http://api.rubyonrails.org/)
+
+Understanding Rails
+
+* [Render and Redirect in Rails 3](https://gist.github.com/jcasimir/1210155)
 
 ## Git and Github
 <sup>[back to index](#index)</sup>
