@@ -50,6 +50,11 @@
 * [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 * [HTTP Status Codes](http://www.tutorialspoint.com/http/http_status_codes.htm)
 
+What happens when you type a URL in a browser
+
+* [Link1](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
+* [Link2](https://www.quora.com/What-are-the-series-of-steps-that-happen-when-an-URL-is-requested-from-the-address-field-of-a-browser)
+
 #### Cookies And Sessions
 
 * [All About Cookies dot Org](http://www.allaboutcookies.org/)
