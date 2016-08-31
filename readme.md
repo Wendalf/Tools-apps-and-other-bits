@@ -12,6 +12,7 @@
     * [Cookies & Sessions](#cookies-and-sessions)
 * [HTML](#html)
 * [CSS & Frontend Related Tools](#misc-css--frontend-related-tools)
+    * [Bootsrap](#bootstrap)
 * [Ruby](#ruby)
     * [Tutorials](#tutorial-sites)
     * [Gem Related Bits](#gem-related-bits)
@@ -26,10 +27,9 @@
     * [Distraction Solutions](#distraction-solutions)
     * [Misc](#misc)
 * [Regex](#regex)
-* [SQL](#sql)
-    * [SQL Tutorials](#sql-tutorials)
-    * [SQLite](#sqlite)
-    * [Database Browsers](#database-browsers)
+* [Databases](#databases)
+    * [SQL](#sql)
+    * [Postgres](#postgres)
 * [Text Editors](#text-editors)
 * [Learn Labs](#learn-labs-related)
     * [Tic Tac Toe AI](#tic-tac-toe)
@@ -71,10 +71,16 @@ What happens when you type a URL in a browser
 
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [Google Fonts](https://fonts.google.com/)
-* [Bootstrap Editor And Builder](http://www.bootply.com/)
 * [CSS3 Generator](http://css3generator.com/)
 * [PX To EM Converter](http://pxtoem.com/)
 * [Color Picker](http://www.colorpicker.com/)
+
+#### Bootstrap
+
+* [Official Site](http://getbootstrap.com/)
+* [Bootstrap Templates](http://bootswatch.com/)
+* [Bootstrap CDN](https://www.bootstrapcdn.com/bootswatch/)
+* [Bootstrap Editor And Builder](http://www.bootply.com/)
 
 ## Ruby
 <sup>[back to index](#index)</sup>
@@ -122,11 +128,18 @@ Understanding Rails
 ## Git and Github
 <sup>[back to index](#index)</sup>
 
-* [Git Guide By Bitbucket [Read This If Nothing Else]](https://www.atlassian.com/git/tutorials/what-is-version-control/)
-* [Git The Simple Guide](https://rogerdudler.github.io/git-guide/)
 * [Git Book](https://git-scm.com/book/en/v2)
 * [Git Reference](http://gitref.org/)
+
+#### Guides
+
+* [Git Guide By Bitbucket [Read This If Nothing Else]](https://www.atlassian.com/git/tutorials/what-is-version-control/)
+* [Git The Simple Guide](https://rogerdudler.github.io/git-guide/)
 * [Major GIT Commands With Examples](https://www.siteground.com/tutorials/git/commands.htm)
+* [Git: How To Undo Things](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+
+#### Git Misc
+
 * [Git Branching Simulation [Interactive]](http://learngitbranching.js.org/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
@@ -166,8 +179,10 @@ Understanding Rails
 * [Tool To Learn, Build, & Test Regural Expressions](http://www.regexr.com/)
 * [Tabular Summary of the Regex Syntax in Perl & Annotated Examples](http://www.cs.tut.fi/~jkorpela/perl/regexp.html)
 
-## SQL
+## Databases
 <sup>[back to index](#index)</sup>
+
+### _SQL_
 
 #### SQL Tutorials
 
@@ -186,9 +201,20 @@ Understanding Rails
 * [SQLite Datatypes](https://www.sqlite.org/datatype3.html)
 * [SQLite Tutorial](http://zetcode.com/db/sqlite/)
 
-#### Database Browsers
+#### Misc SQL
 
 * [DB Browser For SQLite](http://sqlitebrowser.org/)
+
+----
+
+### _Postgres_
+
+* [Official Docs](https://www.postgresql.org/docs/manuals/archive/)
+
+#### Misc Postgres
+
+* [Comprehensive guide](http://www.postgresguide.com/)
+* [OS X Setup Guide](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac)
 
 ## Text Editors
 <sup>[back to index](#index)</sup>
