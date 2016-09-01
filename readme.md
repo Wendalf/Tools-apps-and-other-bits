@@ -219,6 +219,8 @@ Understanding Rails
 ## Text Editors
 <sup>[back to index](#index)</sup>
 
+* [Improves HTML & CSS workflow](http://emmet.io/)
+
 #### Sublime
 
 * [Sublime Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
