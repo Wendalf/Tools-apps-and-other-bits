@@ -170,6 +170,7 @@ Understanding Rails
 * [Pomodory One](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12) <sup>credit for link: Chris Shei</sup>
 * [Spectacle](https://www.spectacleapp.com/) <sup>credit for link: Steven Nunez</sup>
     * Move and resize windows with ease
+* [Alfred](https://www.alfredapp.com/) <sup>credit for link: Fidel Severino</sup>
 
 ## Regex
 <sup>[back to index](#index)</sup>
